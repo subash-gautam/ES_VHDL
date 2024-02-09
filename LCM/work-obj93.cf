@@ -1,0 +1,4 @@
+v 4
+file . "code.vhdl" "5810bee344096bbcb233dfd49d33babfe11b3c41" "20240209080918.897":
+  entity fsm_lcm at 1( 0) + 0 on 11;
+  architecture behavior of fsm_lcm at 10( 159) + 0 on 12;
