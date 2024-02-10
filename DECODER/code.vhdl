@@ -1,3 +1,5 @@
+--2 to 4 decoder
+
 library	ieee;
 use	IEEE.STD_LOGIC_1164.ALL;
 

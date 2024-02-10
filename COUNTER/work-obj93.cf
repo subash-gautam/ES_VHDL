@@ -1,0 +1,11 @@
+v 4
+file . "test.vhdl" "307da7a81e4621c7f3bf5d3e3a0e7ddf3ddf64d8" "20240210135534.720":
+  entity tb_counter at 1( 0) + 0 on 33;
+  architecture tb_counter of tb_counter at 7( 83) + 0 on 34;
+file . "code.vhdl" "c646a8eb905b7c6682bb672b6010a3877fad4883" "20240210135534.710":
+  entity tff at 3( 14) + 0 on 27;
+  architecture tff of tff at 11( 152) + 0 on 28;
+  entity and_g at 30( 543) + 0 on 29;
+  architecture and_g of and_g at 38( 678) + 0 on 30;
+  entity up_counter at 46( 745) + 0 on 31;
+  architecture up_counter of up_counter at 54( 913) + 0 on 32;

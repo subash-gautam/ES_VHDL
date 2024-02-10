@@ -1,3 +1,5 @@
+-- 1 to 8 demultiplexer
+
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 
