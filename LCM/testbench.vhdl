@@ -29,16 +29,16 @@ begin
 	wait for 10 ns;
 	RESET <= '0';
 
-	A <= 45;
+	A <= 4;
+	B <= 5;
+	wait for 1600 ns;
+
+	A <= 6;
 	B <= 15;
 	wait for 1600 ns;
 
-	A <= 8;
-	B <= 10;
-	wait for 1600 ns;
-
-	A <= 15;
-	B <= 55;
+	A <= 12;
+	B <= 33;
 	wait for 1600 ns;
 
 	WAIT;
