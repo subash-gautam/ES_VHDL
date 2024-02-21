@@ -2,7 +2,7 @@
 ## 2079 Ashwin
 Design a 3-bit up counter using T flipflop using structural modeling in VHDL.
 
-## Circuit Diagram
+## Logical Diagram
 ![counterworking](https://github.com/yamsubash/ES_VHDL/assets/149253579/f35ba108-2510-49cf-90e2-7c77f5fbb58c)
 
 
