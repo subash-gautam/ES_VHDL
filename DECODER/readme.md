@@ -1,6 +1,11 @@
 # Decoder
 ## 2080 Ashwin
-Write VHDL code to implement 1 to 8 De-Multiplexer.
+Write VHDL code to implement 2 to 4 Decoder.
+
+## Logical Diagram
+![decoder](https://github.com/yamsubash/ES_VHDL/assets/149253579/fcbea665-cf95-4a4d-b093-1bf5ebb41a4e)
+
+
 
 ## OUTPUT
 
