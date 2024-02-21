@@ -1,4 +1,4 @@
-![counterworking](https://github.com/yamsubash/ES_VHDL/assets/149253579/ef634c97-71dc-47fe-a77f-ba54dd05958b)# Counter using VHDL
+# Counter using VHDL
 ## 2079 Ashwin
 Design a 3-bit up counter using T flipflop using structural modeling in VHDL.
 
